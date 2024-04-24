@@ -1,1 +1,3 @@
 # Airbnb-Price-Prediction
+
+The defined problem is that AirBnb wants to provide Seattle hosts with a pricing strategy to set competitive rates and maximize profits. Therefore, I have created a model to predict Seattle Airbnb prices with transparent features. The data sources are from Airbnb with data on Seattle listings and ZipAtlas on the median household income by Seattle zip codes. By experimenting with decision trees and linear regression models, the linear regression model with Gradient Boosting Variables was recommended for transperancy and explainability as well as intuitive variables relationships with price.
